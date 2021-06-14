@@ -8,4 +8,6 @@ git init : To initialize the git folder
 git status : To show you what modification and changes in the current dir
 git add "filse anme " To track the file and it will hond the file in staging area
 git add . : To add all files on staging area
+git commit -m "your commnet " : To final commit your repo 
+git log : To show the history of commits
 
