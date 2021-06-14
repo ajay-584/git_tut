@@ -1,0 +1,9 @@
+git --version : To chekc git version
+git update-git-for-windows : To update your current git
+git config --global user.name "your name" : To set your name in git
+git config --galobal user.email "your email: To set your email galobally
+git config --global --edit : Open your edditor to set email and name 
+ESC for insert in emd editor and :wq for exit form cmd editor
+git init : To initialize the git folder 
+git status : To show you what modification and changes in the current dir
+git add "filse anme " To track the file
