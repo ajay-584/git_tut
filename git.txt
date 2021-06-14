@@ -23,3 +23,7 @@ git remote -v : To list the all remote repo
 git branch -M main : To go in master for push
 git push -u origin main : To push the files on remote repo
 git push : To update your remote repo
+git fetch : To fetch the origin
+git checkout dev1 : Switch the branch
+git pull : Full the repo
+git branch -d <brnach name> : To delete branch
