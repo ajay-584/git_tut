@@ -10,4 +10,4 @@ git add "filse anme " To track the file and it will hond the file in staging are
 git add . : To add all files on staging area
 git commit -m "your commnet " : To final commit your repo 
 git log : To show the history of commits
-
+git checkout "hash code " : To go in back or History or staging area
