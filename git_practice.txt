@@ -6,8 +6,14 @@ git config --global --edit : Open your edditor to set email and name
 ESC for insert in emd editor and :wq for exit form cmd editor
 git init : To initialize the git folder 
 git status : To show you what modification and changes in the current dir
-git add "filse anme " To track the file and it will hond the file in staging area
+git add <filse_name> : To track the file and it will hond the file in staging area
 git add . : To add all files on staging area
-git commit -m "your commnet " : To final commit your repo 
+git commit -m "your commnet" : To final commit your repo 
 git log : To show the history of commits
-git checkout "hash code " : To go in back or History or staging area
+git checkout <hash code> : To go in back or History or staging area
+git checkout master : Come to current position
+git branch : To show all branch
+git branch <branch name> : To create new branch
+git checkout -b <branch name> : Ti will create new branch and you will move on that branch
+git merge <branch name> : It will merge the branch
+.gitignor : This file ignore all files that files name is mention in gitignor file
