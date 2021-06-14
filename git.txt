@@ -22,3 +22,4 @@ git remote add <file name by default orign> <repo link> : To add remote repo on 
 git remote -v : To list the all remote repo
 git branch -M main : To go in master for push
 git push -u origin main : To push the files on remote repo
+git push : To update your remote repo
