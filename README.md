@@ -1,3 +1,4 @@
+All aout Git
 git --version : To chekc git version
 git update-git-for-windows : To update your current git
 git config --global user.name "your name" : To set your name in git
@@ -17,3 +18,7 @@ git branch <branch name> : To create new branch
 git checkout -b <branch name> : Ti will create new branch and you will move on that branch
 git merge <branch name> : It will merge the branch
 .gitignor : This file ignore all files that files name is mention in gitignor file
+git remote add <file name by default orign> <repo link> : To add remote repo on git file
+git remote -v : To list the all remote repo
+git branch -M main : To go in master for push
+git push -u origin main : To push the files on remote repo
